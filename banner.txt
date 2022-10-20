@@ -1,0 +1,37 @@
+  ____          _           _               ____              _   ___  
+ / ___|__ _  __| | __ _ ___| |_ _ __ ___   |  _ \ _ __ ___   / | / _ \ 
+| |   / _` |/ _` |/ _` / __| __| '__/ _ \  | |_) | '__/ _ \  | || | | |
+| |__| (_| | (_| | (_| \__ \ |_| | | (_) | |  __/| | | (_) | | || |_| |
+ \____\__,_|\__,_|\__,_|___/\__|_|  \___/  |_|   |_|  \___/  |_(_)___/ 
+                                                                       
+
+
+
+
+Como eu fiz esse BANNER ????
+
+
+
+instale na sua maquina o figlet 
+
+sudo apt-get install figlet 
+
+OU
+
+sudo apt install figlet
+
+
+Depois escreva no seu terminal 
+
+
+figlet nome-do-seu-banner
+
+
+caso queira jogar seu BANNER pra um TXT
+
+
+figlet nome-do-seu-banner > seubanner.txt
+
+
+
+Esse é meu canal no youtube > https://www.youtube.com/c/Wget17_oficial/videos
